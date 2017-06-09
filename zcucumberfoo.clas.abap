@@ -6,9 +6,16 @@ class ZCUCUMBERFOO definition
 public section.
 protected section.
 private section.
+
+  methods ASDASFASD .
 ENDCLASS.
 
 
 
 CLASS ZCUCUMBERFOO IMPLEMENTATION.
+
+
+  method ASDASFASD.
+  DATA foo type i.
+  endmethod.
 ENDCLASS.
